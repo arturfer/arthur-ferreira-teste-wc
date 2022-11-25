@@ -1,11 +1,11 @@
 import styled from 'styled-components';
 
 const Section02Content = styled.div`
-
-
+    box-sizing: border-box;
+    max-width: 1040px;
     width: 80%;
+    justify-content: center;
     margin-bottom: 10px;
-    margin: 0 auto;
     display: flex;
     gap: 26px;
     align-items: center;

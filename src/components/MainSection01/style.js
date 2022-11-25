@@ -4,7 +4,7 @@ const SectionComponent = styled.div`
     width: 100%;
     height: 110vh;
     display: flex;
-    justify-content: flex-start;
+
     align-items: center;
     flex-direction: column;
 `
