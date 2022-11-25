@@ -7,8 +7,6 @@ const SectionComponent = styled.div`
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-
-
 `
 
 const SectionTitle = styled.h1`
