@@ -1,13 +1,15 @@
 import styled from 'styled-components';
 
 const Section02Content = styled.div`
-    align-self: center;
     width: 80%;
     margin-bottom: 10px;
     display: flex;
     gap: 26px;
+    align-items: center;
+    justify-content: center;
 `   
 const Section02Cards = styled.div`
+
     min-width: 244px;
     min-height: 480px;
     background-size: cover;
